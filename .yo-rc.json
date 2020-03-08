@@ -1,0 +1,8 @@
+{
+  "generator-phaser-h5": {
+    "projectName": "example1",
+    "projectDesc": "",
+    "projectLicense": "MIT",
+    "projectSass": false
+  }
+}
